@@ -11,7 +11,7 @@
             <div class="left-block  mv-order-1 col-md-6 p-0 d-flex">
                 <div class="image-container img-bg-dark ">
                     <div class="image-wrapper" width="90%">
-                        <img  class="bordered image-left" src="image/showroom.jpg" width="100%" alt="">
+                        <img  class="bordered image-left" src="image/showroom.webp" width="100%" alt="">
                     </div>
                 </div>
             </div>
@@ -71,7 +71,7 @@
              <div class="left-block mv-order-1 col-md-6 p-0 d-flex">
                  <div class="image-container img-bg-dark ">
                      <div class="image-wrapper" width="90%">
-                         <img class="bordered image-left" src="image/showroom.jpg" width="100%" alt="">
+                         <img class="bordered image-left" src="image/showroom.webp" width="100%" alt="">
                      </div>
                  </div>
              </div>
@@ -182,7 +182,7 @@
                             <div class="col-md-6 my-3">
                                 <div class="card-wrapper">
                                     <div class="card">
-                                        <img src="image/prod-dev.jpg" alt="">
+                                        <img src="image/prod-dev.webp" alt="">
                                         <div class="overlay"></div>
                                         <div class="detail-container">
                                             <div class="detail-wrapper">
@@ -204,7 +204,7 @@
                             <div class="col-md-6 my-3">
                                 <div class="card-wrapper">
                                     <div class="card">
-                                        <img src="image/showroom1.jpg" alt="">
+                                        <img src="image/showroom1.webp" alt="">
                                         <div class="overlay"></div>
                                         <div class="detail-container">
                                             <div class="detail-wrapper">
