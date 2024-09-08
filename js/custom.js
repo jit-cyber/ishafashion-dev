@@ -1,5 +1,5 @@
 
-
+// image swoop-in handling
 let lastScrollTop = 0;
 
 function handleScroll() {
@@ -31,6 +31,8 @@ function handleScroll() {
 window.addEventListener('scroll', handleScroll);
 
 
+
+//expansion handling
 
 const choiceArray = document.querySelectorAll(".choice");
 
@@ -82,6 +84,8 @@ choiceArray.forEach((card, index) => {
 
 
 
+//menu-highlight handling
+
 document.addEventListener('DOMContentLoaded', () => {
     // Get the current URL path and remove leading slashes
     const currentPath = window.location.pathname.replace(/^\/|\/$/g, '');
@@ -125,48 +129,8 @@ highlightActiveMenuItem();
 // Retry after a delay if needed
 setTimeout(highlightActiveMenuItem, 1000);
 
-            // const choiceArray = document.querySelectorAll(".choice");
 
-            // let currentIndex = 0;
-            // const intervalTime = 10000; // Interval time in milliseconds (2 seconds)
-
-            // const expandNextCard = () => {
-            //     choiceArray.forEach((element) => {
-            //         element.classList.remove("expand", "unset");
-            //         element.classList.add('small');
-            //     });
-            //     const currentCard = choiceArray[currentIndex];
-            //     currentCard.classList.remove("small");
-            //     currentCard.classList.add('expand');
-
-            //     // Update the index to point to the next card, wrapping around if necessary
-            //     currentIndex = (currentIndex + 1) % choiceArray.length;
-            // };
-
-            // // Set the interval to automatically expand the next card
-            // setInterval(expandNextCard, intervalTime);
-
-            // // Add event listeners for manual clicks
-            // choiceArray.forEach((card, index) => {
-            //     card.addEventListener("click", () => {
-            //         // Manually update the currentIndex to the clicked card's index
-            //         currentIndex = index;
-            //         expandNextCard();
-            //     });
-            // });
-
-
-            // choiceArray.forEach((card) => {
-            //     card.addEventListener("click", () => {
-            //         choiceArray.forEach((element) => {
-            //             element.classList.remove("expand", "unset")
-            //             element.classList.add('small')
-            //         })
-            //         card.classList.remove("small")
-            //         card.classList.add('expand')
-            //     });
-            // });
-// header-sticky on scroll
+// header-sticky on scroll handling
             window.onscroll = function() {
                     toggleStickyHeader();
                 };
