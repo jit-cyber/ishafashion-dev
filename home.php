@@ -279,7 +279,7 @@
         <div class="container">
             <div class="masonarywrap">
                 <div class="gar-container collage-grid">
-                    <div class="item1"><img class="item-1" src="image/garments/temp6.png" alt=""></div>
+                    <div class="item1"><img class="item-1" src="image/garments/temp9.webp" alt=""></div>
                     <div class="item2"><img class="item-2" src="image/garments/garB.webp" alt=""></div>
                     <div class="item3"><img class="item-3" src="image/garments/temp7.webp" alt=""></div>
                     <div class="item4"><img class="item-1" src="image/garments/garA.png" alt=""></div>
