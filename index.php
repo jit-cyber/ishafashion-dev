@@ -12,7 +12,7 @@
     $currentPath = parse_url($_SERVER["REQUEST_URI"], PHP_URL_PATH);
 
     // Define the default page
-    $defaultPage = '/home';
+    $defaultPage = '/about';
     
     // Map paths to files
     $pageMap = [
