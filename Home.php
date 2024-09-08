@@ -22,7 +22,7 @@
                             <img src="image/icons/story1.png" width="50px" alt="">
                         </div>
                         <div class="title d-inline-block">
-                            <h3>Our Story</h3>
+                            <h3>ur Story</h3>
                         </div>
                     </div>
                     <div class="content-wrapper">
