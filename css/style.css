@@ -585,6 +585,8 @@ ul.isha-web-menu li.menu-item.active a {
 /* mobile media */
 
 @media (max-width:440px) {
+    
+    
     .home-bnr.bnr-height{
         height: 40vh;
     }
@@ -810,6 +812,8 @@ ul.isha-web-menu li.menu-item.active a {
     }
     
     /* accordion */
+
+
     
 }
 
