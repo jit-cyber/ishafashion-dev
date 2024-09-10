@@ -64,7 +64,7 @@
     top:0;
     }
     .product-container .pro-item .card .overlay{
-    background-image: linear-gradient(#efefef00, #000000a6), linear-gradient(#00000000, #00000000);
+    background-image:linear-gradient(#efefef00, #0000001f), linear-gradient(#00000000, #00000000);
     background-size: 100% 100%, 100% 0%;
     background-repeat: no-repeat;
     background-position: left top, right bottom;
