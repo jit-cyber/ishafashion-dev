@@ -263,9 +263,7 @@
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
                                             <img src="image/bag/bag1.webp" alt="">
-                                            <div class="item-detail-wrap">
-                                                  
-                                            </div>
+                                            
                                         </div>
                                     </div>
                                 </div>
@@ -274,9 +272,7 @@
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
                                             <img src="image/bag/bag2.webp" alt="">
-                                            <div class="item-detail-wrap">
-                                                  
-                                            </div>
+                                            
                                         </div>
                                     </div>
                                 </div>
@@ -285,9 +281,7 @@
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
                                             <img src="image/bag/bag3.webp" alt="">
-                                            <div class="item-detail-wrap">
-                                                  
-                                            </div>
+                                            
                                         </div>
                                     </div>
                                 </div>
@@ -296,9 +290,7 @@
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
                                             <img src="image/bag/bag4.webp" alt="">
-                                            <div class="item-detail-wrap">
-                                                  
-                                            </div>
+                                            
                                         </div>
                                     </div>
                                 </div>
@@ -307,9 +299,7 @@
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
                                             <img src="image/bag/bag5.webp" alt="">
-                                            <div class="item-detail-wrap">
-                                                  
-                                            </div>
+                                            
                                         </div>
                                     </div>
                                 </div>
@@ -318,9 +308,7 @@
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
                                             <img src="image/bag/bag6.webp" alt="">
-                                            <div class="item-detail-wrap">
-                                                  
-                                            </div>
+                                            
                                         </div>
                                     </div>
                                 </div>
@@ -329,9 +317,7 @@
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
                                             <img src="image/bag/bag7.webp" alt="">
-                                            <div class="item-detail-wrap">
-                                                  
-                                            </div>
+                                            
                                         </div>
                                     </div>
                                 </div>
@@ -340,9 +326,7 @@
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
                                             <img src="image/bag/bag8.webp" alt="">
-                                            <div class="item-detail-wrap">
-                                                  
-                                            </div>
+                                            
                                         </div>
                                     </div>
                                 </div>
@@ -351,9 +335,7 @@
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
                                             <img src="image/bag/bag9.webp" alt="">
-                                            <div class="item-detail-wrap">
-                                                  
-                                            </div>
+                                            
                                         </div>
                                     </div>
                                 </div>
@@ -362,9 +344,7 @@
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
                                             <img src="image/bag/bag10.webp" alt="">
-                                            <div class="item-detail-wrap">
-                                                  
-                                            </div>
+                                            
                                         </div>
                                     </div>
                                 </div>
@@ -373,9 +353,7 @@
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
                                             <img src="image/bag/bag11.webp" alt="">
-                                            <div class="item-detail-wrap">
-                                                  
-                                            </div>
+                                            
                                         </div>
                                     </div>
                                 </div>
@@ -385,9 +363,7 @@
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
                                             <img src="image/bag/bag4.webp" alt="">
-                                            <div class="item-detail-wrap">
-                                                  
-                                            </div>
+                                            
                                         </div>
                                     </div>
                                 </div>
@@ -403,9 +379,7 @@
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
                                             <img src="image/belt/belt0.webp" alt="">
-                                            <div class="item-detail-wrap">
-                                            
-                                            </div>
+                                             
                                         </div>
                                     </div>
                                 </div>
@@ -414,9 +388,7 @@
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
                                             <img src="image/belt/belt1.webp" alt="">
-                                            <div class="item-detail-wrap">
-                                            
-                                            </div>
+                                             
                                         </div>
                                     </div>
                                 </div>
@@ -425,9 +397,7 @@
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
                                             <img src="image/belt/belt2.webp" alt="">
-                                            <div class="item-detail-wrap">
-                                            
-                                            </div>
+                                             
                                         </div>
                                     </div>
                                 </div>
@@ -436,9 +406,7 @@
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
                                             <img src="image/belt/belt3.webp" alt="">
-                                            <div class="item-detail-wrap">
-                                            
-                                            </div>
+                                             
                                         </div>
                                     </div>
                                 </div>
@@ -447,9 +415,7 @@
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
                                             <img src="image/belt/belt4.webp" alt="">
-                                            <div class="item-detail-wrap">
-                                            
-                                            </div>
+                                             
                                         </div>
                                     </div>
                                 </div>
@@ -458,9 +424,7 @@
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
                                             <img src="image/belt/belt5.webp" alt="">
-                                            <div class="item-detail-wrap">
-                                            
-                                            </div>
+                                             
                                         </div>
                                     </div>
                                 </div>
@@ -469,9 +433,7 @@
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
                                             <img src="image/belt/belt6.webp" alt="">
-                                            <div class="item-detail-wrap">
-                                            
-                                            </div>
+                                             
                                         </div>
                                     </div>
                                 </div>
@@ -480,9 +442,7 @@
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
                                             <img src="image/belt/belt7.webp" alt="">
-                                            <div class="item-detail-wrap">
-                                            
-                                            </div>
+                                             
                                         </div>
                                     </div>
                                 </div>
@@ -491,9 +451,7 @@
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
                                             <img src="image/belt/belt8.webp" alt="">
-                                            <div class="item-detail-wrap">
-                                            
-                                            </div>
+                                             
                                         </div>
                                     </div>
                                 </div>
@@ -502,9 +460,7 @@
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
                                             <img src="image/belt/belt9.webp" alt="">
-                                            <div class="item-detail-wrap">
-                                            
-                                            </div>
+                                             
                                         </div>
                                     </div>
                                 </div>
@@ -513,9 +469,7 @@
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
                                             <img src="image/belt/belt10.webp" alt="">
-                                            <div class="item-detail-wrap">
-                                            
-                                            </div>
+                                             
                                         </div>
                                     </div>
                                 </div>
@@ -524,9 +478,7 @@
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
                                             <img src="image/belt/belt11.webp" alt="">
-                                            <div class="item-detail-wrap">
-                                            
-                                            </div>
+                                             
                                         </div>
                                     </div>
                                 </div>
@@ -535,9 +487,7 @@
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
                                             <img src="image/belt/belt12.webp" alt="">
-                                            <div class="item-detail-wrap">
-                                            
-                                            </div>
+                                             
                                         </div>
                                     </div>
                                 </div>
@@ -546,9 +496,7 @@
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
                                             <img src="image/belt/belt13.webp" alt="">
-                                            <div class="item-detail-wrap">
-                                            
-                                            </div>
+                                             
                                         </div>
                                     </div>
                                 </div>
@@ -557,9 +505,7 @@
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
                                             <img src="image/belt/belt14.webp" alt="">
-                                            <div class="item-detail-wrap">
-                                            
-                                            </div>
+                                             
                                         </div>
                                     </div>
                                 </div>
@@ -568,9 +514,7 @@
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
                                             <img src="image/belt/belt15.webp" alt="">
-                                            <div class="item-detail-wrap">
-                                            
-                                            </div>
+                                             
                                         </div>
                                     </div>
                                 </div> 
@@ -590,23 +534,11 @@
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
                                             <img src="image/belt/belt17.webp" alt="">
-                                            <div class="item-detail-wrap">
-                                            
-                                            </div>
+                                             
                                         </div>
                                     </div>
                                 </div> 
-                                <div class="col-md-3 col-6 m-block-gap">
-                                    <div class="card">
-                                        <div class="card-in-wrap">
-                                            <div class="overlay"></div>
-                                            <img src="image/belt/belt18.webp" alt="">
-                                            <div class="item-detail-wrap">
-                                            
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div> 
+                               
 
                             </div>
                         </div>
