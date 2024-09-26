@@ -559,26 +559,7 @@
                                         </div>
                                     </div>
                                 </div> 
-                                <div class="col-md-3 col-6 m-block-gap">
-                                    <div class="card">
-                                        <div class="card-in-wrap">
-                                            <div class="overlay"></div>
-                                            <img src="image/belt/belt16.webp" alt="" loading="lazy">
-                                            <div class="item-detail-wrap">
-                                                
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div> 
-                                <div class="col-md-3 col-6 m-block-gap">
-                                    <div class="card">
-                                        <div class="card-in-wrap">
-                                            <div class="overlay"></div>
-                                            <img src="image/belt/belt17.webp" alt="" loading="lazy">
-                                             
-                                        </div>
-                                    </div>
-                                </div> 
+                               
                                
 
                             </div>
