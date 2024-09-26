@@ -71,7 +71,7 @@
              <div class="left-block mv-order-1 col-md-6 p-0 d-flex">
                  <div class="image-container img-bg-dark ">
                      <div class="image-wrapper" width="90%">
-                         <img class="bordered image-left" src="image/showroom.webp" width="100%" alt="">
+                         <img class="bordered image-left" src="image/p-img1.jpg" width="100%" alt="">
                      </div>
                  </div>
              </div>

@@ -2,7 +2,7 @@
    .tab-container ul.tab-list {
         display: flex;
         justify-content: center;
-        gap: 50px;
+        gap: 5px;
         padding: 0;
         list-style: none;
         margin:auto;
@@ -12,10 +12,39 @@
     .tab-container ul.tab-list li{
         padding: 10px 0px;
     text-align: center;
-    background: grey;
-    width: 100px;
+    background: #ffffff;
+    width: 150px;
     position: relative;
-    color:#fff;
+    color: #000000;
+    border-radius: 20px 20px 0  0;
+    border: 1px solid #b8b8b8;
+    border-bottom: 0;
+    box-shadow: 0 0 5px 1px #9f9f9f4a;
+    font-size: 18px;
+    font-weight: 600;
+}
+.tab-container ul.tab-list li:hover{
+    background: #266851;
+    color: #fff;
+}
+.tab-container ul.tab-list li:active{
+       /* background: red; */
+    /* color: #fff; */
+    box-shadow: none;
+    width: 140px;
+}
+
+.tab-container ul.tab-list li.active {
+    background: #00291b;
+    color: #fff;
+} 
+.tab-content{
+    border-top: 5px solid #00291b;
+    border-radius: 20px;
+    padding: 50px;
+    background: linear-gradient(180deg, #00291b 10%, transparent 50%);
+    z-index: 99;
+    position: relative;
 }
 
     .tab-container .tab-content .product-container .pro-item img{
@@ -54,7 +83,7 @@
         margin-block: calc(var(--bs-gutter-x)* .5);
    
     }
-    .tab-container ul.tab-list .tab-item.active:before{
+    /* .tab-container ul.tab-list .tab-item.active:before{
         content: '';
     width: 100%;
     height: 10px;
@@ -62,7 +91,7 @@
     position: absolute;
     left: 0;
     top:0;
-    }
+    } */
     .product-container .pro-item .card .overlay{
     background-image:linear-gradient(#efefef00, #0000001f), linear-gradient(#00000000, #00000000);
     background-size: 100% 100%, 100% 0%;
@@ -81,8 +110,28 @@
     
         .tab-container ul.tab-list{
             width: auto;
-            gap: 10px;
+            gap: 5px;
         }
+        .tab-container ul.tab-list li {
+            padding: 5px 0px;
+    
+            width: 90px;
+            
+            border-radius: 10px 10px 0  0;
+            border: 1px solid #b8b8b8;
+            border-bottom: 0;
+            
+            font-size: 14px;
+            font-weight: 600;
+        }
+        .tab-content{
+            padding:5px
+        }
+        .tab-container ul.tab-list li:active{
+            width: 80px;
+        }
+        
+
     }
 </style>
 <section class="banner-section">
@@ -91,7 +140,7 @@
     </div>
 </section>
 <section>
-    <div class="container-fluid">
+    <div class="container-fluid mt-5">
         <div class="container">
             <div class="tab-container">
                 <ul class="tab-list">
@@ -107,7 +156,7 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/garment/garment-j-1.webp" alt="">
+                                            <img src="image/garment/garment-j-1.webp" alt="" loading="lazy" loading="lazy">
                                             
                                         </div>
                                     </div>
@@ -116,7 +165,7 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/garment/garment-j-2.webp" alt="">
+                                            <img src="image/garment/garment-j-2.webp" alt="" loading="lazy">
                                             
                                         </div>
                                     </div>
@@ -125,7 +174,7 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/garment/garment-j-3.webp" alt="">
+                                            <img src="image/garment/garment-j-3.webp" alt="" loading="lazy">
                                             
                                         </div>
                                     </div>
@@ -134,7 +183,7 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/garment/garment-j-4.webp" alt="">
+                                            <img src="image/garment/garment-j-4.webp" alt="" loading="lazy">
                                             
                                         </div>
                                     </div>
@@ -143,7 +192,7 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/garment/garment-j-5.webp" alt="">
+                                            <img src="image/garment/garment-j-5.webp" alt="" loading="lazy">
                                             
                                         </div>
                                     </div>
@@ -152,7 +201,7 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/garment/garment-j-6.webp" alt="">
+                                            <img src="image/garment/garment-j-6.webp" alt="" loading="lazy">
                                             
                                         </div>
                                     </div>
@@ -161,7 +210,7 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/garment/garment-ssj-1.webp" alt="">
+                                            <img src="image/garment/garment-ssj-1.webp" alt="" loading="lazy">
                                             
                                         </div>
                                     </div>
@@ -170,7 +219,7 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/garment/garment-ssj-2.webp" alt="">
+                                            <img src="image/garment/garment-ssj-2.webp" alt="" loading="lazy">
                                             
                                         </div>
                                     </div>
@@ -179,7 +228,7 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/garment/garment-g-1.webp" alt="">
+                                            <img src="image/garment/garment-g-1.webp" alt="" loading="lazy">
                                             
                                         </div>
                                     </div>
@@ -188,7 +237,7 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/garment/garment-lp-1.webp" alt="">
+                                            <img src="image/garment/garment-lp-1.webp" alt="" loading="lazy">
                                             
                                         </div>
                                     </div>
@@ -197,7 +246,7 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/garment/garment-lp-2.webp" alt="">
+                                            <img src="image/garment/garment-lp-2.webp" alt="" loading="lazy">
                                             
                                         </div>
                                     </div>
@@ -206,7 +255,7 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/garment/garment-lp-3.webp" alt="">
+                                            <img src="image/garment/garment-lp-3.webp" alt="" loading="lazy">
                                             
                                         </div>
                                     </div>
@@ -215,7 +264,7 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/garment/garment-s-1.webp" alt="">
+                                            <img src="image/garment/garment-s-1.webp" alt="" loading="lazy">
                                             
                                         </div>
                                     </div>
@@ -224,7 +273,7 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/garment/garment-s-2.webp" alt="">
+                                            <img src="image/garment/garment-s-2.webp" alt="" loading="lazy">
                                             
                                         </div>
                                     </div>
@@ -233,7 +282,7 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/garment/garment-s-3.webp" alt="">
+                                            <img src="image/garment/garment-s-3.webp" alt="" loading="lazy">
                                             
                                         </div>
                                     </div>
@@ -242,7 +291,7 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/garment/garment-s-4.webp" alt="">
+                                            <img src="image/garment/garment-s-4.webp" alt="" loading="lazy">
                                             
                                         </div>
                                     </div>
@@ -262,7 +311,7 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/bag/bag1.webp" alt="">
+                                            <img src="image/bag/bag1.webp" alt="" loading="lazy">
                                             
                                         </div>
                                     </div>
@@ -271,7 +320,7 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/bag/bag2.webp" alt="">
+                                            <img src="image/bag/bag2.webp" alt="" loading="lazy">
                                             
                                         </div>
                                     </div>
@@ -280,7 +329,7 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/bag/bag3.webp" alt="">
+                                            <img src="image/bag/bag3.webp" alt="" loading="lazy">
                                             
                                         </div>
                                     </div>
@@ -289,7 +338,7 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/bag/bag4.webp" alt="">
+                                            <img src="image/bag/bag4.webp" alt="" loading="lazy">
                                             
                                         </div>
                                     </div>
@@ -298,7 +347,7 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/bag/bag5.webp" alt="">
+                                            <img src="image/bag/bag5.webp" alt="" loading="lazy">
                                             
                                         </div>
                                     </div>
@@ -307,7 +356,7 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/bag/bag6.webp" alt="">
+                                            <img src="image/bag/bag6.webp" alt="" loading="lazy">
                                             
                                         </div>
                                     </div>
@@ -316,7 +365,7 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/bag/bag7.webp" alt="">
+                                            <img src="image/bag/bag7.webp" alt="" loading="lazy">
                                             
                                         </div>
                                     </div>
@@ -325,7 +374,7 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/bag/bag8.webp" alt="">
+                                            <img src="image/bag/bag8.webp" alt="" loading="lazy">
                                             
                                         </div>
                                     </div>
@@ -334,7 +383,7 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/bag/bag9.webp" alt="">
+                                            <img src="image/bag/bag9.webp" alt="" loading="lazy">
                                             
                                         </div>
                                     </div>
@@ -343,7 +392,7 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/bag/bag10.webp" alt="">
+                                            <img src="image/bag/bag10.webp" alt="" loading="lazy">
                                             
                                         </div>
                                     </div>
@@ -352,21 +401,13 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/bag/bag11.webp" alt="">
+                                            <img src="image/bag/bag11.webp" alt="" loading="lazy">
                                             
                                         </div>
                                     </div>
                                 </div>
                                 
-                                <div class="col-md-3 col-6 m-block-gap">
-                                    <div class="card">
-                                        <div class="card-in-wrap">
-                                            <div class="overlay"></div>
-                                            <img src="image/bag/bag4.webp" alt="">
-                                            
-                                        </div>
-                                    </div>
-                                </div>
+                                
                                 
                             </div>
                         </div>
@@ -378,7 +419,7 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/belt/belt0.webp" alt="">
+                                            <img src="image/belt/belt0.webp" alt="" loading="lazy">
                                              
                                         </div>
                                     </div>
@@ -387,7 +428,7 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/belt/belt1.webp" alt="">
+                                            <img src="image/belt/belt1.webp" alt="" loading="lazy">
                                              
                                         </div>
                                     </div>
@@ -396,7 +437,7 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/belt/belt2.webp" alt="">
+                                            <img src="image/belt/belt2.webp" alt="" loading="lazy">
                                              
                                         </div>
                                     </div>
@@ -405,7 +446,7 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/belt/belt3.webp" alt="">
+                                            <img src="image/belt/belt3.webp" alt="" loading="lazy">
                                              
                                         </div>
                                     </div>
@@ -414,7 +455,7 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/belt/belt4.webp" alt="">
+                                            <img src="image/belt/belt4.webp" alt="" loading="lazy">
                                              
                                         </div>
                                     </div>
@@ -423,7 +464,7 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/belt/belt5.webp" alt="">
+                                            <img src="image/belt/belt5.webp" alt="" loading="lazy">
                                              
                                         </div>
                                     </div>
@@ -432,7 +473,7 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/belt/belt6.webp" alt="">
+                                            <img src="image/belt/belt6.webp" alt="" loading="lazy">
                                              
                                         </div>
                                     </div>
@@ -441,7 +482,7 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/belt/belt7.webp" alt="">
+                                            <img src="image/belt/belt7.webp" alt="" loading="lazy">
                                              
                                         </div>
                                     </div>
@@ -450,7 +491,7 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/belt/belt8.webp" alt="">
+                                            <img src="image/belt/belt8.webp" alt="" loading="lazy">
                                              
                                         </div>
                                     </div>
@@ -459,7 +500,7 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/belt/belt9.webp" alt="">
+                                            <img src="image/belt/belt9.webp" alt="" loading="lazy">
                                              
                                         </div>
                                     </div>
@@ -468,7 +509,7 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/belt/belt10.webp" alt="">
+                                            <img src="image/belt/belt10.webp" alt="" loading="lazy">
                                              
                                         </div>
                                     </div>
@@ -477,7 +518,7 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/belt/belt11.webp" alt="">
+                                            <img src="image/belt/belt11.webp" alt="" loading="lazy">
                                              
                                         </div>
                                     </div>
@@ -486,7 +527,7 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/belt/belt12.webp" alt="">
+                                            <img src="image/belt/belt12.webp" alt="" loading="lazy">
                                              
                                         </div>
                                     </div>
@@ -495,7 +536,7 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/belt/belt13.webp" alt="">
+                                            <img src="image/belt/belt13.webp" alt="" loading="lazy">
                                              
                                         </div>
                                     </div>
@@ -504,7 +545,7 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/belt/belt14.webp" alt="">
+                                            <img src="image/belt/belt14.webp" alt="" loading="lazy">
                                              
                                         </div>
                                     </div>
@@ -513,7 +554,7 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/belt/belt15.webp" alt="">
+                                            <img src="image/belt/belt15.webp" alt="" loading="lazy">
                                              
                                         </div>
                                     </div>
@@ -522,7 +563,7 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/belt/belt16.webp" alt="">
+                                            <img src="image/belt/belt16.webp" alt="" loading="lazy">
                                             <div class="item-detail-wrap">
                                                 
                                             </div>
@@ -533,7 +574,7 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
-                                            <img src="image/belt/belt17.webp" alt="">
+                                            <img src="image/belt/belt17.webp" alt="" loading="lazy">
                                              
                                         </div>
                                     </div>

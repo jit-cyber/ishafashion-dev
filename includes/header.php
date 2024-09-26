@@ -22,9 +22,19 @@
         }
             
         .show-m-menu{
-            /* position: fixed; */
+            position: fixed;
             padding: 20px;
             display: block;
+        }
+        header ul.isha-web-menu li:before {
+            /* border-bottom: 1px solid #fff; */
+            content: "";
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+            height: 1px;
+            background: linear-gradient(to left, #17161600 0%, #e2e2e2 30%, #e2e2e2 50%, #e2e2e2 70%, transparent);
         }
 
         
