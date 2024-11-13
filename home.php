@@ -126,7 +126,7 @@
                                 </div>
                                 <div class="card-body">
             
-                                    <p class="card-text para-font-1"> Our extensive network of leather vendors from Italy, Saudi Arabia, Brazil, and New Zealand, and associations with the finest leather tanneries in Chennai, Kolkata, Kanpur, and Jalandhar, combined with a dedicated merchandising department and competent production team.</p>
+                                    <p class="card-text para-font-1"> We have our own tannery located in Ghaziabad (U.P.)also our extensive network of leather vendors form Italy,Saudi Arabia, Brazil and Newzealand,associated with the finest leather tanneries in Chennai, Kolkata, Kanpur & Jalandhar, combined with a dedicated merchandising department and competent production team.</p>
             
                                 </div>
                             </div>
