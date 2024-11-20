@@ -152,30 +152,7 @@
                     <div id="tab1" class=" garment-tab tab-pane active">
                         <div class="container product-container ">
                             <div class="row pro-item">
-                                <div class="col-md-3 col-6 m-block-gap">
-                                    <div class="card">
-                                        <div class="card-in-wrap">
-                                            <div class="overlay"></div>
-                                            <img src="image/garment/garment-model-1.webp" alt="" loading="lazy">
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-3 col-6 m-block-gap">
-                                    <div class="card">
-                                        <div class="card-in-wrap">
-                                            <div class="overlay"></div>
-                                            <img src="image/garment/garment-model-2.webp" alt="" loading="lazy">
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-3 col-6 m-block-gap">
-                                    <div class="card">
-                                        <div class="card-in-wrap">
-                                            <div class="overlay"></div>
-                                            <img src="image/garment/garment-model-3.webp" alt="" loading="lazy">
-                                        </div>
-                                    </div>
-                                </div>
+                                
                                 <div class="col-md-3 col-6 m-block-gap">
                                     <div class="card">
                                         <div class="card-in-wrap">
@@ -268,6 +245,14 @@
                                     <div class="card">
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
+                                            <img src="image/garment/garment-model-17.webp" alt="" loading="lazy">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 col-6 m-block-gap">
+                                    <div class="card">
+                                        <div class="card-in-wrap">
+                                            <div class="overlay"></div>
                                             <img src="image/garment/garment-model-15.webp" alt="" loading="lazy">
                                         </div>
                                     </div>
@@ -280,14 +265,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-3 col-6 m-block-gap">
-                                    <div class="card">
-                                        <div class="card-in-wrap">
-                                            <div class="overlay"></div>
-                                            <img src="image/garment/garment-model-17.webp" alt="" loading="lazy">
-                                        </div>
-                                    </div>
-                                </div>
+                                
                                 <div class="col-md-3 col-6 m-block-gap">
                                     <div class="card">
                                         <div class="card-in-wrap">
@@ -317,6 +295,30 @@
                                         <div class="card-in-wrap">
                                             <div class="overlay"></div>
                                             <img src="image/garment/garment-model-21.webp" alt="" loading="lazy">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 col-6 m-block-gap">
+                                    <div class="card">
+                                        <div class="card-in-wrap">
+                                            <div class="overlay"></div>
+                                            <img src="image/garment/garment-model-1.webp" alt="" loading="lazy">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 col-6 m-block-gap">
+                                    <div class="card">
+                                        <div class="card-in-wrap">
+                                            <div class="overlay"></div>
+                                            <img src="image/garment/garment-model-2.webp" alt="" loading="lazy">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 col-6 m-block-gap">
+                                    <div class="card">
+                                        <div class="card-in-wrap">
+                                            <div class="overlay"></div>
+                                            <img src="image/garment/garment-model-3.webp" alt="" loading="lazy">
                                         </div>
                                     </div>
                                 </div>
