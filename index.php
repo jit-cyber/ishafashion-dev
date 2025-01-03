@@ -25,7 +25,7 @@
         '/contact' => 'contact.php',
         '/feature' => 'feature.php',
         '/about' => 'about.php',
-        '/home' => 'home.php',
+        '/home' => 'Home.php',
     ];
 
     // Determine the file to include based on the current path
