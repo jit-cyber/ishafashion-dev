@@ -25,7 +25,7 @@
         '/contact' => 'contact.php',
         '/feature' => 'feature.php',
         '/about' => 'about.php',
-        '/home' => 'Home.php',
+        '/home' => 'home.php',
     ];
 
     // Determine the file to include based on the current path
@@ -41,7 +41,7 @@
     <?php include $fileToInclude; ?>
 </main>
 
-<!-- <?php include 'includes/foot.php'; ?> -->
+ <?php include 'includes/foot.php'; ?>
 </body>
 </html>
 
