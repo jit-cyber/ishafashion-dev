@@ -3,10 +3,8 @@
 # Enable URL rewriting
 RewriteEngine On
 
-# Handle the routing of requests to the appropriate files
-RewriteRule ^([a-zA-Z0-9_-]+)$ index.php [L]
-
 # Redirect root URL to the home page
 RewriteRule ^$ index.php [L]
 
-RewriteRule ^([a-zA-Z0-9_-]+)\.php$ index.php [L]
+# Handle the routing of requests to the appropriate files
+RewriteRule ^([a-zA-Z0-9_-]+)/?$ index.php [L]

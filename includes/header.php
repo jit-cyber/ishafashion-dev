@@ -64,7 +64,7 @@
         <div class="isha-web-header">
             <div class="isha-web-row">
                 <div class="isha-web-logo" >
-                    <a class="isha-web-logo-link" href="https://isha-web.com/">
+                    <a class="isha-web-logo-link" href="/home">
 
                         <!-- standard logo -->
                         <img src="image/logo-white.png" alt="isha-web Logo"
