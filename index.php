@@ -41,7 +41,7 @@
     <?php include $fileToInclude; ?>
 </main>
 
-<?php include 'includes/foot.php'; ?>
+ <?php include 'includes/foot.php'; ?>
 </body>
 </html>
 
