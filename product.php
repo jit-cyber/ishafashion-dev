@@ -106,7 +106,7 @@
         background-size: 100% 0%, 100% 100%;
     }
 
-    @media (max-width:576px) {
+    @media (max-width:780px) {
     
         .tab-container ul.tab-list{
             width: auto;
